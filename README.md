@@ -8,6 +8,14 @@ Juego de fútbol arcade con cabezones, hecho en Python (pygame) para el trabajo 
 
 Las 3 descargas están en la sección **[Releases](../../releases/latest)** de este repositorio. Elegí el archivo que corresponda a tu equipo.
 
+| Archivo | Para qué |
+|---|---|
+| `FutbolDeCabeza-windows-gpu.zip` | Windows 10/11 con placa NVIDIA |
+| `FutbolDeCabeza-windows-cpu.zip` | Windows 10/11, cualquier equipo |
+| `FutbolDeCabeza-mac-arm64.zip` | macOS Apple Silicon (M1 o superior) |
+
+Los hashes están en `SHA256SUMS.txt` (versión actual: **v1.0**).
+
 ## Requisitos
 
 - Windows o macOS (la versión de Mac es para Apple Silicon: M1 o superior).
