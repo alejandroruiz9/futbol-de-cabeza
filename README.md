@@ -1,6 +1,6 @@
 # futbolDeCabeza
 
-Juego de fútbol arcade con cabezones, hecho en Python (pygame) para el trabajo práctico de Programación Concurrente (UNLaM). Tiene modo local y modo online, con efectos y poderes durante el partido.
+Juego de fútbol arcade con cabezones, hecho en Python (pygame) para el trabajo práctico de Programación Concurrente (UNLaM). Tiene modo local y modo online, con seis efectos (hielo, fuego, repetición, confusión, apagón y noche) y poderes durante el partido.
 
 - Sitio y modo online: https://futbol.timecore.com.ar
 
@@ -14,7 +14,7 @@ Las 3 descargas están en la sección **[Releases](../../releases/latest)** de e
 | `FutbolDeCabeza-windows-cpu.zip` | Windows 10/11, cualquier equipo |
 | `FutbolDeCabeza-mac-arm64.zip` | macOS Apple Silicon (M1 o superior) |
 
-Los hashes están en `SHA256SUMS.txt` (versión actual: **v1.0.4**, con los zips de Windows y de Mac de la misma versión).
+Los hashes están en `SHA256SUMS.txt` (versión actual: **v1.0.5**, con seis efectos y los zips de Windows y de Mac de la misma versión).
 
 ## Requisitos
 
