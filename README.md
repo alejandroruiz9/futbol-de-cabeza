@@ -14,13 +14,13 @@ Las 3 descargas están en la sección **[Releases](../../releases/latest)** de e
 | `FutbolDeCabeza-windows-cpu.zip` | Windows 10/11, cualquier equipo |
 | `FutbolDeCabeza-mac-arm64.zip` | macOS Apple Silicon (M1 o superior) |
 
-Los hashes están en `SHA256SUMS.txt` (versión actual: **v1.0.3**; el zip de Mac sigue siendo el de la v1.0.2).
+Los hashes están en `SHA256SUMS.txt` (versión actual: **v1.0.4**, con los zips de Windows y de Mac de la misma versión).
 
 ## Requisitos
 
 - Windows o macOS (la versión de Mac es para Apple Silicon: M1 o superior).
 - Para jugar online hace falta conexión a internet.
-- El modo OPTIMIZADO anda bien en cualquier equipo; el modo FULL usa efectos por CPU/GPU y es más exigente (en Mac, con CPU, es poco jugable en los efectos pesados).
+- Hay dos modos de calidad y se cambia con F10: SIN EFECTOS (el render de pygame, anda en cualquier equipo y es el modo por defecto con CPU) y FULL (toda la cadena de efectos, por GPU o por CPU; en Mac, con CPU, es poco jugable en los efectos pesados). F1 muestra la ayuda con el resto de las teclas.
 
 ## Abrir la app de macOS (sin firma)
 
