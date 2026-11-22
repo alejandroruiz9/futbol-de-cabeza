@@ -14,7 +14,7 @@ Las 3 descargas están en la sección **[Releases](../../releases/latest)** de e
 | `FutbolDeCabeza-windows-cpu.zip` | Windows 10/11, cualquier equipo |
 | `FutbolDeCabeza-mac-arm64.zip` | macOS Apple Silicon (M1 o superior) |
 
-Los hashes están en `SHA256SUMS.txt` (versión actual: **v1.0.5**, con seis efectos y los zips de Windows y de Mac de la misma versión).
+Los hashes están en `SHA256SUMS.txt` (versión actual: **v1.0.6**, con seis efectos, botón DEMO en el menú y los zips de Windows y de Mac de la misma versión).
 
 ## Requisitos
 
